@@ -12,7 +12,6 @@
 - Quản lí đơn hàng
 - Quản lí kho hàng
 - Quản lí nhà cung cấp
-- Quản lí khuyến mãi
 - Quản lí thanh toán
 - Thống kê và báo cáo
 
