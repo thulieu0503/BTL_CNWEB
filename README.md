@@ -130,18 +130,18 @@
 
 ## Database
 Các bảng chính của hệ thống:
-- roles
-- users
-- categories
-- products
-- suppliers
-- import_receipts
-- import_receipt_details
-- customers
-- orders
-- order_details
-- payments
-- inventory_logs
+roles: lưu quyền người dùng
+users: lưu tài khoản người dùng
+categories: lưu danh mục sản phẩm
+products: lưu thông tin sản phẩm
+suppliers: lưu thông tin nhà cung cấp
+import_receipts: lưu phiếu nhập hàng
+import_receipt_details: lưu chi tiết phiếu nhập
+customers: lưu thông tin khách hàng
+orders: lưu đơn hàng
+order_details: lưu chi tiết đơn hàng
+payments: lưu thanh toán
+inventory_logs: lưu lịch sử nhập xuất kho
 
 ## Kết luận
 Hệ thống quản lí cửa hàng bán đồ ăn vặt giúp quản lí hoạt động kinh doanh hiệu quả hơn, giảm sai sót trong bán hàng, kiểm soát tốt hàng tồn kho và hỗ trợ theo dõi doanh thu một cách chính xác.
